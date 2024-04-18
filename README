@@ -2,6 +2,10 @@ See https://www.airspayce.com/mikem/bcm2835/.
 
 ---
 
+**Usage**: `nix build github:abhillman/bcm2835-flake#.`
+
+---
+
 **Important**: see `bcm2835.h`, which can be downloaded from the above link for licensing information.
 
 ```
